@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bancom</string>
+    <string name="ErrorEMail">Debe ingresar un correo electrónico</string>
+    <string name="ErrorPassword">Debe ingresar la contraseña</string>
+</resources>
